@@ -8,5 +8,14 @@ namespace Fraction
 {
     public class Fraction
     {
+        private int num;
+        private uint den;
+
+        Fraction(int n, int d)
+        {
+
+        }
+
+
     }
 }
